@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LX66k/v3T1madzwQNZjsD8cFoIUf9O3HdYMf9uPcol+Ilm6Q3Hp6Or039X7LCUVH7JSYdkWUVXRgu8/sXLDf/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n0979\\source\\repos\\Sinoptik\\Sinoptik\\Sinoptik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n0979\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\n0979\\.nuget\\packages\\openweathermap\\1.1.0\\openweathermap.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
